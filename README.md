@@ -8,13 +8,13 @@
 ### 导入库
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/dengjiawen8955/website-view/website-view.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/dengjiawen8955/website-view/website-view.v2.min.js"></script>
 ```
 
 或者下载到本地，从本地导入
 
 ```html
-<script src="assert/website-view.min.js"></script>
+<script src="assert/website-view.v2.min.js"></script>
 ```
 
 ### 快速使用
