@@ -8,8 +8,7 @@
 ### 导入库
 
 ```html
-<!-- 从GitHub导入 -->
-<script src="https://github.com/dengjiawen8955/website-view/dist/website-view.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/dengjiawen8955/website-view/website-view.min.js"></script>
 ```
 
 或者下载到本地，从本地导入
