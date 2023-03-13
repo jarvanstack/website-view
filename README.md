@@ -10,7 +10,7 @@
 ```html
 <script src="https://cdn.jsdelivr.net/gh/dengjiawen8955/website-view/website-view.min.js"></script>
 <!-- 推荐指定版本 -->
-<script src="https://cdn.jsdelivr.net/gh/dengjiawen8955/website-view@v0.0.2/website-view.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/dengjiawen8955/website-view@latest/website-view.min.js"></script>
 ```
 
 或者下载到本地，从本地导入

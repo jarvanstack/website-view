@@ -7,9 +7,10 @@ let WebsiteUV = 0;
 async function onceFetchAPi() {
     console.log('onceFetchAPi');
     const website = window.location.hostname;
+    const port = window.location.port;
     // Create the data object with the website name
     const data = {
-        website: website
+        website: website + (port ? ':' + port : '')
     };
     const response = await fetch("https://api1.bmft.tech/dc3/api_platform/add_view", {
         method: "POST",
